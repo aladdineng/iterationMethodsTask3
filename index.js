@@ -77,7 +77,7 @@ Task 5) Calculate and return the highest temperature of the month.
 Task 6) Calculate and return the lowest temperature of the month.
        Output 6) 18
 
-********************************************************************/
+*******************************************************************/
 const tempT5 = temperatures.find((temperature) => {
   return temperature >= 30;
 });
